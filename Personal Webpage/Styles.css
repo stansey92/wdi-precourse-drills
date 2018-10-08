@@ -1,0 +1,113 @@
+body {
+  background-color: LightGrey;
+  font-family: helvetica;
+}
+
+img {
+  border: 2px solid black;
+}
+
+#container {
+  width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: snow;
+  border: 6px solid black;
+}
+
+#header {
+  background-color: red;
+  color: white;
+  text-align: center;
+  font-size: 30px;
+  border-style: solid;
+  border-color: red;
+  text-shadow:
+    1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000;
+
+}
+
+#content {
+
+}
+
+#profile {
+  padding: 20px;
+  float: left;
+
+}
+
+#bio {
+  float: right;
+  padding: 20px;
+  width: 550px;
+  height: 350px;
+  font-size: 24px;
+
+}
+
+#bio ul {
+  list-style-type: none;
+}
+
+.pics {
+  padding: 20px;
+}
+
+#pic1 {
+  float: left;
+}
+
+#pic2 {
+  float: left;
+}
+
+
+#more {
+  background-color: grey;
+  padding:10px;
+  color: snow;
+  font-size: 20px;
+}
+
+.bold {
+  font-weight: bold;
+  background-color: grey;
+  color: snow;
+  padding-left: 5px;
+  border: 2px solid black;
+
+}
+
+.blue {
+  border: 2px solid blue;
+}
+
+button {
+  height: 30px;
+  font-size: 18px;
+}
+
+#asp {
+  padding:20px;
+}
+
+h2 {
+  text-decoration: underline;
+}
+
+#gif {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  padding: 20px;
+}
+
+#question {
+  padding: 10px;
+  text-decoration: underline;
+}
